@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-City,Lat,Long,Max Temp,Humidity,Wind,Cloudiness,Country,Date
+City,Lat,Lng,Max Temp,Humidity,Wind,Cloudiness,Country,Date
 cape town,-33.9258,18.4232,66.99,88,10.36,20,ZA,1611030633
 punta arenas,-53.15,-70.9167,48.2,76,5.75,20,CL,1611030739
 kazachinskoye,57.6953,93.2761,2.26,89,11.45,100,RU,1611030739
